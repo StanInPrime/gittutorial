@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Peanut Butter Bliss</h1>
+    <p>Experience a creamy, nutty explosion with every bite of our Peanut Butter Bliss cookies. Made with freshly ground peanuts, whole wheat flour, and just the right amount of honey, these cookies are a rich and satisfying treat for peanut butter lovers everywhere.</p>
+  </body>
+</html>

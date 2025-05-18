@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Classic Chocolate Chip Cookies</h1>
+    <p>Our classic chocolate chip cookies are a favorite among all ages. We use rich Belgian chocolate, golden brown sugar, and a touch of sea salt to bring out the perfect balance of sweet and savory. Baked to perfection with a soft center and crisp edges, these cookies are comfort in every bite.</p>
+  </body>
+</html>
